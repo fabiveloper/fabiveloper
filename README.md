@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Fabian Unger 👋
 
-<!--
-**fabiveloper/fabiveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer in the mechanical engineering sector, focused on simulation and control systems. M.Sc. Applied Computer Science graduate. Building useful side projects and maintaining websites in my spare time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 M.Sc. in Applied Computer Science
+- ⚙️ Software Developer in the mechanical engineering industry
+- 📈 Specializing in simulation and control engineering
+- 🛠️ Building useful side projects in my spare time
+- 🌐 Maintaining and improving websites for friends
+- 📍 Dornhan, Germany
+
+---
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiveloper">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/fabivelopergrid-snake.svg />
+</picture>
+
+---
+
+## Activity Graph
+
+[![Fabian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true)
+---
+
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
