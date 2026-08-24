@@ -6,7 +6,7 @@ Software Developer in the mechanical engineering sector, focused on simulation a
 
 ## About Me
 
-- 🎓 M.Sc. in Applied Computer Science
+- 🎓 M.Sc. Student in Applied Computer Science
 - ⚙️ Software Developer in the mechanical engineering industry
 - 📈 Specializing in simulation and control engineering
 - 🛠️ Building useful side projects in my spare time
@@ -17,7 +17,6 @@ Software Developer in the mechanical engineering sector, focused on simulation a
 
 ## GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiveloper">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/fabivelopergrid-snake.svg />
-</picture>
+![github contribution grid snake animation](https://raw.githubusercontent.com/fabiveloper/fabiveloper/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/fabiveloper/fabiveloper/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
