@@ -21,14 +21,3 @@ Software Developer in the mechanical engineering sector, focused on simulation a
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiveloper">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/fabivelopergrid-snake.svg />
 </picture>
-
----
-
-## Activity Graph
-
-[![Fabian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true)
----
-
-## Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
