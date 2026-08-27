@@ -29,7 +29,13 @@ Software developer in the mechanical engineering sector, specialising in simulat
   </a>
 </p>
 
-## GitHub Activity
+## GitHub
+
+### Activity
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/fabiveloper/fabiveloper/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/fabiveloper/fabiveloper/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+### Stats
+
+![GitHub Stats](https://github-stats-extended-fabiveloper.vercel.app/api?username=fabiveloper&hide_rank=true&show_icons=true&include_all_commits=true&theme=vue)
