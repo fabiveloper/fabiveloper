@@ -33,8 +33,13 @@ Software developer in the mechanical engineering sector, specialising in simulat
 
 ### Activity
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/fabiveloper/fabiveloper/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/fabiveloper/fabiveloper/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiveloper/fabiveloper/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiveloper/fabiveloper/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/fabiveloper/fabiveloper/output/pacman-contribution-graph.svg">
+</picture>
+
+_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ### Stats
 
