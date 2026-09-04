@@ -44,8 +44,8 @@ _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 ### Stats
 
 <picture>
-  <source
-    srcset="https://github-stats-extended-fabiveloper.vercel.app/api?username=fabiveloper&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark"
+  <source    
+    srcset="https://github-stats-extended-fabiveloper.vercel.app/api?username=fabiveloper&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <img
