@@ -86,7 +86,7 @@ Software developer in the mechanical engineering sector, specialising in **simul
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="fabian.unger@t-online.de">
+  <a href="mailto:fabian.unger@t-online.de">
     <img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://fabiveloper.github.io">
