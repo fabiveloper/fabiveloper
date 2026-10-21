@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect x="0" y="0" width="9" height="9" rx="2" fill="#0E4429"/>
+  <rect x="11" y="0" width="9" height="9" rx="2" fill="#26A641"/>
+  <rect x="0" y="11" width="9" height="9" rx="2" fill="#006D32"/>
+  <rect x="11" y="11" width="9" height="9" rx="2" fill="#39D353"/>
+<addonInited xmlns="" id="addonInited" targetelementname="addonInited"/></svg>
