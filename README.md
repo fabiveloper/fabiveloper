@@ -56,11 +56,11 @@ Software developer in the mechanical engineering sector, specialising in **simul
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-fabiveloper.vercel.app/api?username=fabiveloper&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-fabiveloper.vercel.app/api?username=fabiveloper&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=FFFFFF&hide_border=true" />
   <img height="170" src="https://github-stats-extended-fabiveloper.vercel.app/api?username=fabiveloper&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=vue" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-fabiveloper.vercel.app/api/top-langs?username=fabiveloper&layout=compact&theme=transparent" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-fabiveloper.vercel.app/api/top-langs?username=fabiveloper&layout=compact&bg_color=0D1117&title_color=39D353&text_color=FFFFFF&hide_border=true" />
   <img height="170" src="https://github-stats-extended-fabiveloper.vercel.app/api/top-langs?username=fabiveloper&layout=compact&theme=vue" alt="Top Languages" />
 </picture>
 
