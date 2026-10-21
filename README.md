@@ -65,7 +65,7 @@ Software developer in the mechanical engineering sector, specialising in **simul
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fabiveloper&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fabiveloper&theme=github-dark&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=fabiveloper&hide_border=true" alt="GitHub Streak" />
 </picture>
 
