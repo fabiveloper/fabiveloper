@@ -71,7 +71,7 @@ Software developer in the mechanical engineering sector, specialising in **simul
 
 </div>
 
-### 🟡 Activity
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><img src="assets/activity-light.svg" width="20" height="20" alt="" /></picture> Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiveloper/fabiveloper/output/pacman-contribution-graph-dark.svg">
