@@ -59,17 +59,17 @@ Software developer in the mechanical engineering sector, specialising in **simul
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-fabiveloper.vercel.app/api?username=fabiveloper&hide=stars,contribs&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&card_width=400&line_height=30&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=FFFFFF&hide_border=true" />
-  <img src="https://github-stats-extended-fabiveloper.vercel.app/api?username=fabiveloper&hide=stars,contribs&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&card_width=400&line_height=30&theme=vue&hide_border=true" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-fabiveloper.vercel.app/api?username=fabiveloper&hide=contribs&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=FFFFFF&hide_border=true" />
+  <img align="top" src="https://github-stats-extended-fabiveloper.vercel.app/api?username=fabiveloper&hide=contribs&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-fabiveloper.vercel.app/api/top-langs?username=fabiveloper&layout=compact&langs_count=6&card_width=400&bg_color=0D1117&title_color=39D353&text_color=FFFFFF&hide_border=true" />
-  <img src="https://github-stats-extended-fabiveloper.vercel.app/api/top-langs?username=fabiveloper&layout=compact&langs_count=6&card_width=400&theme=vue&hide_border=true" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-fabiveloper.vercel.app/api/top-langs?username=fabiveloper&layout=compact&langs_count=6&bg_color=0D1117&title_color=39D353&text_color=FFFFFF&hide_border=true" />
+  <img align="top" src="https://github-stats-extended-fabiveloper.vercel.app/api/top-langs?username=fabiveloper&layout=compact&langs_count=6&theme=vue&hide_border=true" alt="Top Languages" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fabiveloper&hide_border=true&card_width=805&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&stroke=30363D" />
-  <img src="https://streak-stats.demolab.com?user=fabiveloper&hide_border=true&card_width=805" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fabiveloper&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&stroke=30363D" />
+  <img src="https://streak-stats.demolab.com?user=fabiveloper&hide_border=true" alt="GitHub Streak" />
 </picture>
 
 </div>
