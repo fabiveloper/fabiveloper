@@ -22,9 +22,8 @@ Software developer in the mechanical engineering sector, specialising in **simul
 
 - ⚙️ **Day job:** Simulation & control software in mechanical engineering
 - 🎓 **Studying:** M.Sc. Applied Computer Science
-- 🛠️ **Side projects:** Small tools that solve real problems
+- 🛠️ **Side projects:** Useful apps, plus content about my Christian faith
 - 🌐 **Web:** Maintaining and improving websites for friends
-- 🔭 **Currently working on:** An app to create family trees
 
 ---
 
@@ -34,21 +33,36 @@ Software developer in the mechanical engineering sector, specialising in **simul
 
 ### Languages
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,ts,html,mysql&theme=dark" alt="Languages" />
-</a>
+<p>
+  <a href="https://en.cppreference.com/w/c" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" /></a>
+  <a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#" /></a>
+  <a href="https://dev.java" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" /></a>
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" /></a>
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" /></a>
+</p>
 
 ### Frameworks & Engines
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dotnet,pytorch,unity,wordpress&theme=dark" alt="Frameworks" />
-</a>
+<p>
+  <a href="https://dotnet.microsoft.com" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48" alt=".NET" /></a>
+  <a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch" /></a>
+  <a href="https://unity.com" title="Unity"><img src="https://skillicons.dev/icons?i=unity&theme=dark" width="48" height="48" alt="Unity" /></a>
+  <a href="https://wordpress.org" title="WordPress"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="48" height="48" alt="WordPress" /></a>
+</p>
 
 ### Tools & DevOps
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,visualstudio,vscode&theme=dark" alt="Tools" />
-</a>
+<p>
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /></a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a>
+  <a href="https://gitlab.com" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="48" height="48" alt="GitLab" /></a>
+  <a href="https://visualstudio.microsoft.com" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" height="48" alt="Visual Studio" /></a>
+  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>
+</p>
 
 </div>
 
